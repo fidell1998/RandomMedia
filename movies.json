@@ -1,0 +1,398 @@
+[
+  {
+    "genre": "Comedy",
+    "humor": "Lighthearted and Silly",
+    "setting": "High school or college campus",
+    "main_character": "A lovable idiot",
+    "films": {
+      "pre_1999": "Clueless (1995)",
+      "post_2000": "Napoleon Dynamite (2004)",
+      "animated": "Monsters University (2013)"
+    }
+  },
+  {
+    "genre": "Comedy",
+    "humor": "Lighthearted and Silly",
+    "setting": "High school or college campus",
+    "main_character": "A total trainwreck",
+    "films": {
+      "pre_1999": "She’s Having a Baby (1988)",
+      "post_2000": "Mean Girls (2004)",
+      "animated": "The Emperor's New Groove (2000)"
+    }
+  },
+  {
+    "genre": "Comedy",
+    "humor": "Lighthearted and Silly",
+    "setting": "High school or college campus",
+    "main_character": "An underdog you root for",
+    "films": {
+      "pre_1999": "Ferris Bueller’s Day Off (1986)",
+      "post_2000": "Easy A (2010)",
+      "animated": "Meet the Robinsons (2007)"
+    }
+  },
+  {
+    "genre": "Comedy",
+    "humor": "Lighthearted and Silly",
+    "setting": "High school or college campus",
+    "main_character": "A chaotic duo or group",
+    "films": {
+      "pre_1999": "Animal House (1978)",
+      "post_2000": "Superbad (2007)",
+      "animated": "Cloudy with a Chance of Meatballs (2009)"
+    }
+  },
+  {
+    "genre": "Comedy",
+    "humor": "Lighthearted and Silly",
+    "setting": "Big city chaos",
+    "main_character": "A lovable idiot",
+    "films": {
+      "pre_1999": "Dumb and Dumber (1994)",
+      "post_2000": "The 40-Year-Old Virgin (2005)",
+      "animated": "The Secret Life of Pets (2016)"
+    }
+  },
+  {
+    "genre": "Comedy",
+    "humor": "Lighthearted and Silly",
+    "setting": "Big city chaos",
+    "main_character": "A total trainwreck",
+    "films": {
+      "pre_1999": "The Odd Couple II (1998)",
+      "post_2000": "Bridesmaids (2011)",
+      "animated": "Zootopia (2016)"
+    }
+  },
+  {
+    "genre": "Comedy",
+    "humor": "Lighthearted and Silly",
+    "setting": "Big city chaos",
+    "main_character": "An underdog you root for",
+    "films": {
+      "pre_1999": "Trading Places (1983)",
+      "post_2000": "The Intern (2015)",
+      "animated": "Big Hero 6 (2014)"
+    }
+  },
+  {
+    "genre": "Comedy",
+    "humor": "Lighthearted and Silly",
+    "setting": "Big city chaos",
+    "main_character": "A chaotic duo or group",
+    "films": {
+      "pre_1999": "Planes, Trains and Automobiles (1987)",
+      "post_2000": "The Other Guys (2010)",
+      "animated": "The LEGO Batman Movie (2017)"
+    }
+  },
+  {
+    "genre": "Comedy",
+    "humor": "Lighthearted and Silly",
+    "setting": "A fantasy or surreal world",
+    "main_character": "A lovable idiot",
+    "films": {
+      "pre_1999": "Beetlejuice (1988)",
+      "post_2000": "Stardust (2007)",
+      "animated": "Tangled (2010)"
+    }
+  },
+  {
+    "genre": "Comedy",
+    "humor": "Lighthearted and Silly",
+    "setting": "A fantasy or surreal world",
+    "main_character": "A total trainwreck",
+    "films": {
+      "pre_1999": "The Addams Family (1991)",
+      "post_2000": "Enchanted (2007)",
+      "animated": "Coraline (2009)"
+    }
+  },
+  {
+    "genre": "Comedy",
+    "humor": "Lighthearted and Silly",
+    "setting": "A fantasy or surreal world",
+    "main_character": "An underdog you root for",
+    "films": {
+      "pre_1999": "Edward Scissorhands (1990)",
+      "post_2000": "The Shape of Water (2017)",
+      "animated": "Kubo and the Two Strings (2016)"
+    }
+  },
+  {
+    "genre": "Comedy",
+    "humor": "Lighthearted and Silly",
+    "setting": "A fantasy or surreal world",
+    "main_character": "A chaotic duo or group",
+    "films": {
+      "pre_1999": "Ghostbusters (1984)",
+      "post_2000": "Guardians of the Galaxy (2014)",
+      "animated": "How to Train Your Dragon (2010)"
+    }
+  },
+  {
+    "genre": "Comedy",
+    "humor": "Dry and Sarcastic",
+    "setting": "High school or college campus",
+    "main_character": "A lovable idiot",
+    "films": {
+      "pre_1999": "Rushmore (1998)",
+      "post_2000": "Superbad (2007)",
+      "animated": "The Simpsons Movie (2007)"
+    }
+  },
+  {
+    "genre": "Comedy",
+    "humor": "Dry and Sarcastic",
+    "setting": "High school or college campus",
+    "main_character": "A total trainwreck",
+    "films": {
+      "pre_1999": "Election (1999)",
+      "post_2000": "Easy A (2010)",
+      "animated": "Persepolis (2007)"
+    }
+  },
+  {
+    "genre": "Comedy",
+    "humor": "Dry and Sarcastic",
+    "setting": "High school or college campus",
+    "main_character": "An underdog you root for",
+    "films": {
+      "pre_1999": "Heathers (1989)",
+      "post_2000": "Lady Bird (2017)",
+      "animated": "Anomalisa (2015)"
+    }
+  },
+  {
+    "genre": "Comedy",
+    "humor": "Dry and Sarcastic",
+    "setting": "High school or college campus",
+    "main_character": "A chaotic duo or group",
+    "films": {
+      "pre_1999": "The Breakfast Club (1985)",
+      "post_2000": "The Edge of Seventeen (2016)",
+      "animated": "Waking Life (2001)"
+    }
+  },
+  {
+    "genre": "Comedy",
+    "humor": "Dry and Sarcastic",
+    "setting": "Big city chaos",
+    "main_character": "A lovable idiot",
+    "films": {
+      "pre_1999": "Office Space (1999)",
+      "post_2000": "The Office (US) Movie (2024)",
+      "animated": "The Simpsons Movie (2007)"
+    }
+  },
+  {
+    "genre": "Comedy",
+    "humor": "Dry and Sarcastic",
+    "setting": "Big city chaos",
+    "main_character": "A total trainwreck",
+    "films": {
+      "pre_1999": "The Big Lebowski (1998)",
+      "post_2000": "Birdman (2014)",
+      "animated": "Anomalisa (2015)"
+    }
+  },
+  {
+    "genre": "Comedy",
+    "humor": "Dry and Sarcastic",
+    "setting": "Big city chaos",
+    "main_character": "An underdog you root for",
+    "films": {
+      "pre_1999": "Fargo (1996)",
+      "post_2000": "Juno (2007)",
+      "animated": "Fantastic Mr. Fox (2009)"
+    }
+  },
+  {
+    "genre": "Comedy",
+    "humor": "Dry and Sarcastic",
+    "setting": "Big city chaos",
+    "main_character": "A chaotic duo or group",
+    "films": {
+      "pre_1999": "Clerks (1994)",
+      "post_2000": "The Nice Guys (2016)",
+      "animated": "Sausage Party (2016)"
+    }
+  },
+  {
+    "genre": "Comedy",
+    "humor": "Crazy and Goofy/Slapstick",
+    "setting": "High school or college campus",
+    "main_character": "A lovable idiot",
+    "films": {
+      "pre_1999": "Billy Madison (1995)",
+      "post_2000": "Accepted (2006)",
+      "animated": "Cloudy with a Chance of Meatballs (2009)"
+    }
+  },
+  {
+    "genre": "Comedy",
+    "humor": "Crazy and Goofy/Slapstick",
+    "setting": "High school or college campus",
+    "main_character": "A total trainwreck",
+    "films": {
+      "pre_1999": "Problem Child (1990)",
+      "post_2000": "Superbad (2007)",
+      "animated": "Despicable Me (2010)"
+    }
+  },
+  {
+    "genre": "Comedy",
+    "humor": "Crazy and Goofy/Slapstick",
+    "setting": "High school or college campus",
+    "main_character": "An underdog you root for",
+    "films": {
+      "pre_1999": "Heavyweights (1995)",
+      "post_2000": "Pitch Perfect (2012)",
+      "animated": "Rango (2011)"
+    }
+  },
+  {
+    "genre": "Comedy",
+    "humor": "Crazy and Goofy/Slapstick",
+    "setting": "High school or college campus",
+    "main_character": "A chaotic duo or group",
+    "films": {
+      "pre_1999": "Wayne’s World (1992)",
+      "post_2000": "21 Jump Street (2012)",
+      "animated": "The LEGO Movie (2014)"
+    }
+  },
+  {
+    "genre": "Comedy",
+    "humor": "Crazy and Goofy/Slapstick",
+    "setting": "Big city chaos",
+    "main_character": "A lovable idiot",
+    "films": {
+      "pre_1999": "Dumb and Dumber (1994)",
+      "post_2000": "Zoolander (2001)",
+      "animated": "The Secret Life of Pets (2016)"
+    }
+  },
+  {
+    "genre": "Comedy",
+    "humor": "Crazy and Goofy/Slapstick",
+    "setting": "Big city chaos",
+    "main_character": "A total trainwreck",
+    "films": {
+      "pre_1999": "The Mask (1994)",
+      "post_2000": "The Hangover (2009)",
+      "animated": "Monsters vs. Aliens (2009)"
+    }
+  },
+  {
+    "genre": "Comedy",
+    "humor": "Crazy and Goofy/Slapstick",
+    "setting": "Big city chaos",
+    "main_character": "An underdog you root for",
+    "films": {
+      "pre_1999": "Mrs. Doubtfire (1993)",
+      "post_2000": "The Proposal (2009)",
+      "animated": "Megamind (2010)"
+    }
+  },
+  {
+    "genre": "Comedy",
+    "humor": "Crazy and Goofy/Slapstick",
+    "setting": "Big city chaos",
+    "main_character": "A chaotic duo or group",
+    "films": {
+      "pre_1999": "Ace Ventura: Pet Detective (1994)",
+      "post_2000": "Kick-Ass (2010)",
+      "animated": "Cloudy with a Chance of Meatballs (2009)"
+    }
+  },
+  {
+    "genre": "Comedy",
+    "humor": "Edgy and R-rated",
+    "setting": "High school or college campus",
+    "main_character": "A lovable idiot",
+    "films": {
+      "pre_1999": "Clerks (1994)",
+      "post_2000": "Superbad (2007)",
+      "animated": "Sausage Party (2016)"
+    }
+  },
+  {
+    "genre": "Comedy",
+    "humor": "Edgy and R-rated",
+    "setting": "High school or college campus",
+    "main_character": "A total trainwreck",
+    "films": {
+      "pre_1999": "Heathers (1989)",
+      "post_2000": "American Pie (1999)",
+      "animated": "South Park: Bigger, Longer & Uncut (1999)"
+    }
+  },
+  {
+    "genre": "Comedy",
+    "humor": "Edgy and R-rated",
+    "setting": "High school or college campus",
+    "main_character": "An underdog you root for",
+    "films": {
+      "pre_1999": "Rushmore (1998)",
+      "post_2000": "Project X (2012)",
+      "animated": "F Is for Family (2015) [TV Movie]"
+    }
+  },
+  {
+    "genre": "Comedy",
+    "humor": "Edgy and R-rated",
+    "setting": "High school or college campus",
+    "main_character": "A chaotic duo or group",
+    "films": {
+      "pre_1999": "Animal House (1978)",
+      "post_2000": "21 Jump Street (2012)",
+      "animated": "Archer: The Movie (2023)"
+    }
+  },
+  {
+    "genre": "Comedy",
+    "humor": "Edgy and R-rated",
+    "setting": "Big city chaos",
+    "main_character": "A lovable idiot",
+    "films": {
+      "pre_1999": "The Big Lebowski (1998)",
+      "post_2000": "The Hangover (2009)",
+      "animated": "Sausage Party (2016)"
+    }
+  },
+  {
+    "genre": "Comedy",
+    "humor": "Edgy and R-rated",
+    "setting": "Big city chaos",
+    "main_character": "A total trainwreck",
+    "films": {
+      "pre_1999": "Pulp Fiction (1994)",
+      "post_2000": "Deadpool (2016)",
+      "animated": "Fritz the Cat (1972)"
+    }
+  },
+  {
+    "genre": "Comedy",
+    "humor": "Edgy and R-rated",
+    "setting": "Big city chaos",
+    "main_character": "An underdog you root for",
+    "films": {
+      "pre_1999": "Trainspotting (1996)",
+      "post_2000": "Kick-Ass (2010)",
+      "animated": "South Park: Bigger, Longer & Uncut (1999)"
+    }
+  },
+  {
+    "genre": "Comedy",
+    "humor": "Edgy and R-rated",
+    "setting": "Big city chaos",
+    "main_character": "A chaotic duo or group",
+    "films": {
+      "pre_1999": "Bad Boys (1995)",
+      "post_2000": "Pineapple Express (2008)",
+      "animated": "Robot Chicken: Star Wars (2007) [TV Special]"
+    }
+  }
+]
